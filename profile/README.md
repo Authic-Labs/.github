@@ -4,7 +4,7 @@
 
 👩‍💻 Visit our [website](https://authic.io)
 
-🍿 Our office is in Amsterdam with a view over the canals. If you want to join as a dev contact our CTO [@paulvaneijden](https://github.com/paulvaneijden)
+🍿 Our office is in Amsterdam with a view over the canals.
 
 <!--
 
